@@ -7,12 +7,12 @@
 * [Setup](#setup)
 
 ## Repository info
-maml_nn_5_rsrq.ipynb includes RSRQ forecasting with training data set of size 5 data points.
-maml_nn_20_rsrq.ipynb includes RSRQ forecasting with training data set of size 20 data points.
-maml_nn_40_rsrq.ipynb includes RSRQ forecasting with training data set of size 40 data points.
-maml_nn_40_rsrp.ipynb includes RSRP forecasting with training data set of size 40 data points.
-maml_nn_40_rs_snr.ipynb includes SINR forecasting with training data set of size 40 data points.
-maml_nn_log_mean_var.ipynb includes logarithm of mean and variance for each size of training data set. 
+* maml_nn_5_rsrq.ipynb includes RSRQ forecasting with training data set of size 5 data points.
+* maml_nn_20_rsrq.ipynb includes RSRQ forecasting with training data set of size 20 data points.
+* maml_nn_40_rsrq.ipynb includes RSRQ forecasting with training data set of size 40 data points.
+* maml_nn_40_rsrp.ipynb includes RSRP forecasting with training data set of size 40 data points.
+* maml_nn_40_rs_snr.ipynb includes SINR forecasting with training data set of size 40 data points.
+* maml_nn_log_mean_var.ipynb includes logarithm of mean and variance for each size of training data set. 
 
 ## Project info
 The aim of this Graduation Project is to use machine learning models to analyze and improve
